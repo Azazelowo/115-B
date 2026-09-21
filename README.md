@@ -40,3 +40,20 @@
 ```[Arras](https://arras.io/#cc)
 (https://arras.io/#cc)
 ```
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+| test | 測試        |    $3333 |
+```ruby
+def index
+puts "hello world"
+end
+```
+**哈囉**
+
+*你好嗎*
+
+~~衷心感謝~~
+![](dpip_home_v4.webp "exptech")
