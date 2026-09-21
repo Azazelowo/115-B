@@ -56,4 +56,6 @@ end
 *你好嗎*
 
 ~~衷心感謝~~
-![](dpip_home_v4.webp "exptech")
+
+![喔喔喔](dpip_home_v4.webp "exptech")
+[![?](https://i.ytimg.com/vi/u0BpB3uJ3tQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBSzgdk5yATZ8tdJox90hnK8YWz-g)](https://youtu.be/u0BpB3uJ3tQ?si=vhtvRUKyH1CeCe_U")
